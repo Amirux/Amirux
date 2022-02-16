@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amir
 - 🌱 I’m currently learning UX design
-- 📫 I'm always happy to talk to you :) here is my Email: hnp.amir@gmail.com
+- 📫 I'm always happy to talk to you :) here is my Email: xx
 
 <!---
 Amirux/Amirux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
